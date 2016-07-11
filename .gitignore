@@ -27,7 +27,13 @@
 *.i*86
 *.x86_64
 *.hex
+*.3dsx
+*.elf
+*.smdh
 
 # Debug files
 *.dSYM/
 *.su
+
+#The build directory
+./build/
