@@ -34,9 +34,9 @@ DATA		:=	data
 INCLUDES	:=	include
 #ROMFS		:=	romfs
 
-APP_TITLE	:= Template
-APP_DESCRIPTION	:= Template for 3DS
-APP_AUTHOR	:= The Author
+APP_TITLE	:= TestFor3DS
+APP_DESCRIPTION	:= Just a quick Test
+APP_AUTHOR	:= Nathaniel Barragan
 
 #ICON	:= iconfile.png
 
